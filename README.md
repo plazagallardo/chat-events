@@ -22,6 +22,7 @@ There are 2 options in order to run this app.
 
 ![image](https://user-images.githubusercontent.com/99485965/212759010-bfff4ada-d6a8-4f25-9446-e1830f29934f.png)
 
+*Seconds granularity as per the exercise defininion example
 		
  ## 2. Using the API
 		
@@ -45,6 +46,10 @@ There are 2 options in order to run this app.
 		
 		
 ![image](https://user-images.githubusercontent.com/99485965/212758424-df315015-6a57-495c-9177-864198dac45e.png)
+
+![image](https://user-images.githubusercontent.com/99485965/212766338-79c2eb10-33cf-4173-8e24-d4267c530263.png)
+
+*Hours granularity as per the exercise defininion example( will need to be grouped by hour in a worket out UI)
 		
 		
 
