@@ -13,6 +13,7 @@ The Domain Service takes care of fetching all events (AccessEvent, SendMessageEv
 ## Persistence
 
 Implemented an inmemory repository for simplicity as suggested.
+*Keep in mind in a real word solution, I would have created a User Entity in the Domain and create a relation with the ChatEvent entity instead of using the "UserName". 
 
 ## UI
 
