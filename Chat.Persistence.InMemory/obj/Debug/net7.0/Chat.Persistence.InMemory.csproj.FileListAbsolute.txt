@@ -1,0 +1,15 @@
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\obj\Debug\net7.0\Chat.Persistence.InMemory.csproj.AssemblyReference.cache
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\obj\Debug\net7.0\Chat.Persistence.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\obj\Debug\net7.0\Chat.Persistence.InMemory.AssemblyInfoInputs.cache
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\obj\Debug\net7.0\Chat.Persistence.InMemory.AssemblyInfo.cs
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\obj\Debug\net7.0\Chat.Persistence.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\bin\Debug\net7.0\Chat.Persistence.InMemory.deps.json
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\bin\Debug\net7.0\Chat.Persistence.InMemory.dll
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\bin\Debug\net7.0\Chat.Persistence.InMemory.pdb
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\bin\Debug\net7.0\Chat.Core.Application.dll
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\bin\Debug\net7.0\Chat.Core.Application.pdb
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\obj\Debug\net7.0\Chat.Persistence.InMemory.csproj.CopyComplete
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\obj\Debug\net7.0\Chat.Persistence.InMemory.dll
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\obj\Debug\net7.0\refint\Chat.Persistence.InMemory.dll
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\obj\Debug\net7.0\Chat.Persistence.InMemory.pdb
+C:\Users\davidplaza82\source\repos\ChatAPI\Chat.Persistence.InMemory\obj\Debug\net7.0\ref\Chat.Persistence.InMemory.dll

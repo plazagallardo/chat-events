@@ -1,0 +1,206 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\ChatAPI\\ChatAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Core.Application\\Chat.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Core.Application\\Chat.Core.Application.csproj",
+        "projectName": "Chat.Core.Application",
+        "projectPath": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Core.Application\\Chat.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\davidplaza82\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\davidplaza82\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Persistence.InMemory\\Chat.Persistence.InMemory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Persistence.InMemory\\Chat.Persistence.InMemory.csproj",
+        "projectName": "Chat.Persistence.InMemory",
+        "projectPath": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Persistence.InMemory\\Chat.Persistence.InMemory.csproj",
+        "packagesPath": "C:\\Users\\davidplaza82\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Persistence.InMemory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\davidplaza82\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Core.Application\\Chat.Core.Application.csproj": {
+                "projectPath": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Core.Application\\Chat.Core.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\ChatAPI\\ChatAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\ChatAPI\\ChatAPI.csproj",
+        "projectName": "ChatAPI",
+        "projectPath": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\ChatAPI\\ChatAPI.csproj",
+        "packagesPath": "C:\\Users\\davidplaza82\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\ChatAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\davidplaza82\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Core.Application\\Chat.Core.Application.csproj": {
+                "projectPath": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Core.Application\\Chat.Core.Application.csproj"
+              },
+              "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Persistence.InMemory\\Chat.Persistence.InMemory.csproj": {
+                "projectPath": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.Persistence.InMemory\\Chat.Persistence.InMemory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

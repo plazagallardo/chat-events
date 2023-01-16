@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UaB6OCRR/wXlUtSj5REGpgwhQw5PhJJVrp0IhWRarMEzpAxsqKvVh8WVqbkMe2TLIXihfOAqi8vTjVIg2HMzdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\davidplaza82\\Documents\\GitHub\\chat-events\\Chat.ConsoleApp\\Chat.ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\davidplaza82\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\davidplaza82\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

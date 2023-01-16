@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Chat.Persistence.InMemory/1.0.0": {
+        "dependencies": {
+          "Chat.Core.Application": "1.0.0"
+        },
+        "runtime": {
+          "Chat.Persistence.InMemory.dll": {}
+        }
+      },
+      "Chat.Core.Application/1.0.0": {
+        "runtime": {
+          "Chat.Core.Application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chat.Persistence.InMemory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Chat.Core.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
