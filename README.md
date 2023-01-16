@@ -10,7 +10,7 @@ You do NOT have to implement the actual chat functionality - we are only interes
 
 There are 2 options in order to run this app.
 
- ## 1.Console application. 
+ ## 1. Console application. 
 	
 		-You could use a console app which loads a menu the 4 options.
 		
