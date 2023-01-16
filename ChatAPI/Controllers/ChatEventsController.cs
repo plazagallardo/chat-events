@@ -25,7 +25,7 @@ namespace ChatAPI.Controllers
         }
 
         [HttpPost]
-        [Route("message")]
+        [Route("highfive")]
         public async Task<IActionResult> SendMessage([FromBody] SendHighFiveRequest request)
         {
             await _chatEventService.SendHighFive(request.Date, request.RecipientName, request.SenderName);
@@ -34,7 +34,7 @@ namespace ChatAPI.Controllers
         }
 
         [HttpPost]
-        [Route("highfive")]
+        [Route("message")]
         public async Task<IActionResult> SendMessage([FromBody] SendMessageRequest request)
         {
             await _chatEventService.SendTextMessage(request.Date, request.SenderName, request.Text);
