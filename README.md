@@ -20,11 +20,14 @@ There are 2 options in order to run this app.
 		4.Send high five 	-> You will need to provide the sender name and the recipient name.
 		5.Show past activity-> You will need to pass the granularity selecting from the options listed.
 		
+		![image](https://user-images.githubusercontent.com/99485965/212758190-6d25005d-8502-436f-b693-7c2f29958d12.png)
+
+		
  2. Using the API
 		
 		-If you are willing to create your own app, you could use the Chat API too.
 		-For testing purposes, you could just run the API and use Swagger
-			1.Open a console and navigate to the repository, "cd ~/ChatAPI/ChatAPI"
+			1.Open a console and navigate to the repository, "cd ~/ChatAPI"
 			2.dotnet run 
 			3.Open a browser and navigate to "http://localhost:5047/swagger/index.html"
 			4.You can easily make use of the endpoints to accomplish the same thing as with the console app.
@@ -41,7 +44,8 @@ There are 2 options in order to run this app.
 		*I added the Date as parameter in all event creations so you could play around with the activity agreggations.
 		
 		
-		
+		![image](https://user-images.githubusercontent.com/99485965/212758236-e9d50036-d7d3-4bfc-a5b1-40dd9ddbc088.png)
+
 		
 		
 
