@@ -10,7 +10,7 @@ You do NOT have to implement the actual chat functionality - we are only interes
 
 There are 2 options in order to run this app.
 
- ##1.Console application. 
+ ## 1.Console application. 
 	
 		-You could use a console app which loads a menu the 4 options.
 		
@@ -23,7 +23,7 @@ There are 2 options in order to run this app.
 ![image](https://user-images.githubusercontent.com/99485965/212759010-bfff4ada-d6a8-4f25-9446-e1830f29934f.png)
 
 		
- ##2. Using the API
+ ## 2. Using the API
 		
 		-If you are willing to create your own app, you could use the Chat API too.
 		-For testing purposes, you could just run the API and use Swagger
